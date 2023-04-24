@@ -1,0 +1,35 @@
+
+
+.userForm {
+    margin-top: 20px;
+    background-color: #c0bff6;
+    padding: 0px 30px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+
+.userInput {
+    height: 40px;
+    width: 300px;
+    border-radius: 4px;
+    font-size: 20px;
+    border: 1px solid #252525;
+    margin-right: 50px;
+}
+
+.red {
+    border: 2px solid red;
+}
+
+.userLabel {
+    margin-right: 10px;
+    font-size: 22px;
+}
+
+.submit {
+    height: 44px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 1px solid #252525;
+}
